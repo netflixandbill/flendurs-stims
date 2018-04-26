@@ -1,0 +1,11 @@
+html {
+	background-color: #209cee;
+}
+.landing {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+a.navbar-item:hover {
+	background-color: transparent;
+}
