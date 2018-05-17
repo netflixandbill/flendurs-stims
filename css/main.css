@@ -9,3 +9,6 @@ html {
 a.navbar-item:hover {
 	background-color: transparent;
 }
+.media-content {
+	overflow-y: hidden;
+}
